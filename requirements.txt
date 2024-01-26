@@ -1,0 +1,12 @@
+numpy
+seaborn
+matplotlib
+sklearn
+tensorflow
+tensorflow-datasets==4.0
+tqdm
+autograd
+torch
+torchsummary
+torchvision
+fastprogress
